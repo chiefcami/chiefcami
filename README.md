@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/chiefcami"  />
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
